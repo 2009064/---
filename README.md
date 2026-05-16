@@ -31,3 +31,13 @@
 ---
 
 ## 📂 هيكل الملفات
+my-site/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md        
+│
+└── images/
+    ├── sung-jin-team.jpg
+    └── akami.jpg
